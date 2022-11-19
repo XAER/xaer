@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working at Merendels as an Junior Full Stack Developer.
+- 🔭 Currently working at NTT DATA Italia as a Junior Consultant | Digital Engineer @ Mobile & Emerging Devices
 - 🌱 I’m currently learning about Flutter Mobile app Development, Flutter plugin development, AI and ML..
 - 📫 My links: [LinkedIn](https://www.linkedin.com/in/colonnelli-stefano/)
 
