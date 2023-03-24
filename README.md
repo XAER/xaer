@@ -22,7 +22,7 @@ My socials (visible only in dark mode :P )
 
   
 
-> **I'm a Frontend Development Engineer currently working at NTT DATA Italia!**
+> **I'm a Frontend Developer Engineer currently working at NTT DATA Italia!**
 ---
   
   <br />
