@@ -29,9 +29,9 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 26 mins   ██████████████████████▒░░   89.53 %
-SCSS         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+TypeScript   5 hrs 47 mins   ██████████████████████▓░░   90.10 %
+SCSS         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
