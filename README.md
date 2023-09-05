@@ -29,10 +29,9 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 38 mins    █████████████████████░░░░   83.60 %
-TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TypeScript   13 mins         ███████████████████▓░░░░░   79.24 %
+CSS          2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Dart         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
