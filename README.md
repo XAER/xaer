@@ -29,11 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.21 %
-JavaScript    4 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.10 %
-HTML          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JSON          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Bash          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript    6 hrs 1 min     █████████████▒░░░░░░░░░░░   52.72 %
+JavaScript    4 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   35.43 %
+HTML          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+JSON          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Bash          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
