@@ -43,8 +43,6 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 <br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XAER)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 
@@ -53,7 +51,7 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 #  Now  Playing  🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11128426607&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11128426607&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
 
