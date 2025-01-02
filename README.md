@@ -29,9 +29,7 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go                26 mins         ██████████████▓░░░░░░░░░░   58.63 %
-Makefile          11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-Protocol Buffer   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
