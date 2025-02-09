@@ -29,7 +29,7 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go         4 hrs 31 mins   ████████████████████████▒   97.32 %
+Go         4 hrs 30 mins   ████████████████████████▒   97.31 %
 Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
