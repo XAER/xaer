@@ -29,10 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go         4 hrs 30 mins   ████████████████████████▒   97.31 %
-Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go         6 hrs 25 mins   ███████████████████████▓░   94.89 %
+YAML       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Makefile   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
