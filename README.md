@@ -29,7 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      4 mins          ███████████░░░░░░░░░░░░░░   43.64 %
+TOML       2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+Go         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+YAML       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
