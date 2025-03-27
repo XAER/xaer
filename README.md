@@ -29,8 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go     52 mins         █████████████████████████   99.93 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Dart        1 hr 29 mins    ███████████████░░░░░░░░░░   60.64 %
+Go          52 mins         █████████░░░░░░░░░░░░░░░░   35.65 %
+JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+CocoaPods   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
