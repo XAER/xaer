@@ -29,9 +29,9 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go      6 hrs 17 mins   ███████████████████████▓░   94.07 %
-YAML    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Other   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Go      3 hrs 11 mins   ███████████████████████▒░   93.95 %
+YAML    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
