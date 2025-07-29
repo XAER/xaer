@@ -29,8 +29,7 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 mins         ██████████████████████▓░░   91.28 %
-CSV          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+TypeScript   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
