@@ -29,8 +29,10 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 hr 12 mins    ███████████████████████▒░   93.45 %
-XML    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Dart                1 hr 47 mins    ██████████████████████▒░░   89.26 %
+Gradle Kotlin DSL   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+XML                 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Bash                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
