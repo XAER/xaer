@@ -29,10 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                1 hr 47 mins    ██████████████████████▒░░   89.26 %
-Gradle Kotlin DSL   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-XML                 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Bash                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Dart                3 hrs 9 mins    ██████████████████▓░░░░░░   74.95 %
+Gradle Kotlin DSL   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+YAML                13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Java Properties     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Other               6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
