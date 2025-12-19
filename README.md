@@ -29,11 +29,10 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          2 hrs 11 mins   █████████████████████▒░░░   85.90 %
-YAML          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-CocoaPods     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Image (svg)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Dart          49 mins         ████████████████████▓░░░░   83.12 %
+YAML          7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Image (svg)   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
