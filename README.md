@@ -29,11 +29,9 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       4 hrs 23 mins         ███████████████████████▒░   93.95 %
-JSON       12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Markdown   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-XML        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart   3 hrs 38 mins         ███████████████████████▓░   94.86 %
+JSON   11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
