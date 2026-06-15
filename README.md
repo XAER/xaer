@@ -22,7 +22,7 @@ My socials (visible only in dark mode :P )
 
   
 
-> **Go Software Engineer @ Capgemini**
+> **Full Stack Software Engineer @ Teoresi Group**
 ---
   
   <br />
