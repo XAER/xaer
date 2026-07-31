@@ -29,7 +29,11 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Go   9 mins                █████████████████████████   100.00 %
+Markdown          21 mins               █████████▒░░░░░░░░░░░░░░░   37.92 %
+Go                9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Kotlin            9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+YAML              8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Dart              5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
 ```
 
 <!--END_SECTION:waka-->
