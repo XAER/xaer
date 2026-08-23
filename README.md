@@ -29,11 +29,10 @@ My socials (visible only in dark mode :P )
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                           12 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Microsoft Visual Studio Solution   12 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-C#                                 11 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-Other                              8 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Go                                 0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Markdown                           12 mins               ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Microsoft Visual Studio Solution   12 mins               ███████░░░░░░░░░░░░░░░░░░   28.29 %
+C#                                 11 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+Other                              7 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
 ```
 
 <!--END_SECTION:waka-->
