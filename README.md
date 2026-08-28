@@ -29,10 +29,11 @@ My socials (visible only in dark mode)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                           12 mins               ███████░░░░░░░░░░░░░░░░░░   28.66 %
-Microsoft Visual Studio Solution   12 mins               ███████░░░░░░░░░░░░░░░░░░   28.29 %
-C#                                 11 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-Other                              7 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+JSON         17 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+TypeScript   16 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Markdown     15 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Python       15 mins               █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+YAML         5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 ```
 
 <!--END_SECTION:waka-->
