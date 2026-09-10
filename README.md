@@ -29,9 +29,7 @@ My socials (visible only in dark mode)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 3 mins           ███████████████████████▒░   93.14 %
-Python       4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
