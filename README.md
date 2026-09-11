@@ -29,7 +29,10 @@ My socials (visible only in dark mode)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         54 mins               ███████████████▒░░░░░░░░░   61.80 %
+Bash       28 mins               ████████░░░░░░░░░░░░░░░░░   32.01 %
+Markdown   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
