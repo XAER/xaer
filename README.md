@@ -29,8 +29,11 @@ My socials (visible only in dark mode)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     23 mins               ████████████████▒░░░░░░░░   65.30 %
-JavaScript   12 mins               ████████▓░░░░░░░░░░░░░░░░   34.70 %
+TypeScript   18 mins               ██████████▓░░░░░░░░░░░░░░   42.64 %
+CSS          12 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
+YAML         7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Markdown     4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Git Config   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
