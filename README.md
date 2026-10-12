@@ -29,11 +29,11 @@ My socials (visible only in dark mode)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 26 mins         ██████████░░░░░░░░░░░░░░░   40.38 %
-Go           1 hr 21 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Other        50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Markdown     40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Python       33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+TypeScript   3 hrs 59 mins         ████████▓░░░░░░░░░░░░░░░░   34.68 %
+Other        1 hr 41 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Go           1 hr 21 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Dart         1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Python       51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:waka-->
