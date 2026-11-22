@@ -44,6 +44,15 @@
 ### ⏱️ Weekly coding activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Other             2 hrs 22 mins         ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+TypeScript        1 hr 36 mins          █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Markdown          1 hr 30 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+SQL               51 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+CSS               36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
